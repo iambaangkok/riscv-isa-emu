@@ -101,6 +101,7 @@ print ("=================")
 i=0
 for REG in REGISTER:
    print ("x",i, "=", REG) 
+   i=i+1
 
 # 6. Print RAM values
 # ===================
